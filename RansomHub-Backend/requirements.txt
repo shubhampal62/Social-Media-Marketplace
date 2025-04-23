@@ -1,0 +1,11 @@
+django
+djangorestframework
+psycopg2-binary
+Pillow
+whitenoise
+gunicorn==23.0.0
+django-cors-headers
+djangorestframework-simplejwt
+django-recaptcha
+requests
+pusher
